@@ -68,7 +68,7 @@
             Anslavel.Name = "Anslavel";
             Anslavel.Size = new Size(38, 15);
             Anslavel.TabIndex = 3;
-            Anslavel.Text = "label1";
+            Anslavel.Text = "";
             // 
             // Form1
             // 
