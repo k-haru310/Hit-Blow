@@ -1,6 +1,6 @@
 タイトル: Hit & Blow ゲーム
 
-![メイン画面](./images/AppTop.jpg)
+![メイン画面](./数当て/images/AppTop.jpg)<br>
 遊び方: 3桁の数字を入力して、正解を当てるゲームです。
 
 開発環境: Visual Studio 2022 / C# (WinForms)
