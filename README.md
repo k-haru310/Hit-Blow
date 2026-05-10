@@ -8,6 +8,7 @@
   <img src="./%E6%95%B0%E5%BD%93%E3%81%A6/images/AppTop.jpg" width="500">
 </p>
 
+## download［https://github.com/k-haru310/Hit-Blow/releases/download/v1.0.0/default.exe］
 ## 🎮 遊び方
 4桁の数字を当てていくゲームです。  
 ユーザーが入力した数値に合わせて、以下の２つを表示する。
